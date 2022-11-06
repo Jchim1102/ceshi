@@ -38,4 +38,4 @@ def SendQQMail_Text(text_content):  # 发送附件邮件
     smtp.quit()
 
 
-SendQQMail_Text('--速速去续期 hax 和 woiden--')
+SendQQMail_Text('--《来自 项目》速速去续期 hax 和 woiden--')
